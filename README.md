@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ludvig 👋
 
-<!--
-**LudvigSandahl/LudvigSandahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm graduating in **Computer and Systems Sciences (Spring 2026)** in Stockholm. I enjoy building practical solutions close to end users, especially **integrations**, **data mapping**, and **lightweight automation**.
 
-Here are some ideas to get you started:
+## Current focus
+- Python (scripts, REST integrations)
+- SQL (transformations, quality checks)
+- TypeScript/JavaScript (simple UI + API interaction)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+A few small projects around everyday dev tasks: moving data between systems, cleaning it up, and making sure it behaves. Usually I start with a dry-run, then turn it into something repeatable.
+
+
+## Contact
+- LinkedIn: <https://www.linkedin.com/in/ludvig-sandahl-22460b218/>
+
