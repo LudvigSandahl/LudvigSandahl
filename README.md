@@ -1,4 +1,4 @@
-# Hi, I'm Ludvig
+# Hi there, I'm Ludvig
 
 I'm graduating in **Computer and Systems Sciences (Spring 2026)** in Stockholm. I enjoy problem solving at the intersection of users, systems and data. Building small tools, improving workflows and learning new tech along the way.
 
